@@ -7,4 +7,4 @@ categories: post update
 
 image!
 
-![image](/assets/images/prettygirl.jpg)
+![imageofprettygirl](/assets/images/prettygirl.jpg)
