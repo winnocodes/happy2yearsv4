@@ -8,5 +8,6 @@ Hello bby,
 
 Tryna friggin get photos up in here so ya can see whats up.
 
-![asd](_site\stuff\img1.jpg)
+![belen](/img/belen.jpg)
 
+please fukn work

@@ -7,7 +7,7 @@ categories: post update
 
 image!
 
-![imageofprettygirl](assets\images\prettygirl.jpg)
+![imageofprettygirl]({https://winnocodes.github.io/happy2yearsv4/}}/stuff/img1.jpg)
 
 Okay it did not work and i dont know why.
 
