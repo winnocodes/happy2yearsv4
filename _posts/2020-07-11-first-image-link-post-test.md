@@ -6,3 +6,5 @@ categories: post update
 ---
 
 image!
+
+![image](/assets/images/prettygirl.jpg)
