@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sorry there's been a card drought"
-date:   2020-08-20 23:09:54 +1000
+date:   2020-07-20 23:09:54 +1000
 categories: post update
 ---
 Hiya babes,
